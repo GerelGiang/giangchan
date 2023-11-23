@@ -3,9 +3,7 @@
 <body>
 <div style="border: 5px solid red;
 border-radius: 24px; padding-top:0px;
-100%; margin-top:-10px;
-">
-  url('https://pbs.twimg.com/profile_images/1095333700097630208/iQQubiBH_400x400.jpg');background-repeat: no-repeat; background-size: 27%
+background-image: url('https://pbs.twimg.com/profile_images/1095333700097630208/iQQubiBH_400x400.jpg');background-repeat: no-repeat; background-size: 27%
 100%; margin-top:-9px;
 ">
 <h2 style="height: 30px;text-align: center;margin-top:0px; padding: 25px 0;"">KHOA
@@ -23,4 +21,4 @@ Cử nhân: <br>
 Ngành Công nghệ Thông tin (Mã ngành:7480201)</p>
 </div>
 </body>
-</html>
+<html>
