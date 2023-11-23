@@ -5,6 +5,9 @@
 border-radius: 24px; padding-top:0px;
 100%; margin-top:-10px;
 ">
+  url('https://pbs.twimg.com/profile_images/1095333700097630208/iQQubiBH_400x400.jpg');background-repeat: no-repeat; background-size: 27%
+100%; margin-top:-9px;
+">
 <h2 style="height: 30px;text-align: center;margin-top:0px; padding: 25px 0;"">KHOA
 CÔNG NGHỆ VÀ KỸ THUẬT</h2>
 <p style="font-size:25px; text-indent: 50px; padding: 0px 5px 10px 260px">Những
